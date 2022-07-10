@@ -1,0 +1,148 @@
+@charset "utf-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #811111;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    font-family: arial;
+    
+
+    font-size: 15pt;
+    color:#f7bc05;
+ }
+
+ h2{
+     font-family: arial;
+     text-shadow: 2px 2px 2px black;
+     padding: 10px;
+
+     font-size: 15pt;
+     color: #f7bc05;
+ }
+
+p{
+    text-shadow: 2px 2px 2px black;
+    font-size: 20px;
+    text-justify: 2px;
+    padding: 30px;
+
+    color:#f7bc05;
+}
+
+.fim{
+    text-shadow: 2px 2px 2px black;
+    font-size: 20px;
+    text-justify: 2px;
+    padding: 0px;
+
+    color:#f7bc05;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+
+.menuw{
+    border: 1px solid black;
+    align-items: center;
+    padding: 5px;
+
+    background-color: #811111;
+    border-radius: 20px;
+}
+
+.menuw2{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #811111;
+}
+
+.navw{
+    border: 1px solid black;
+    padding: 5px;
+    height: 630px;
+    width: 250px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.navw h1{
+    border: solid 1px black;
+    background-color:#941617;
+}
+
+.logow{
+    display: flex;
+    align-items: center;
+ }
+ 
+.logow h1{
+    margin-left:42%;
+ 
+ }
+ 
+.logow img{
+     padding: 1px;
+    float: left;
+    height:60px;
+    width: 60px;
+  }
+.logos{
+     height:20px;
+     width:20px;
+   }
+   
+.art img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    height: 150px;
+    width: 350px;
+   }
+
+
+.asiw{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 20px;
+     
+     height: 630px;
+     width: 250px;
+   }
+
+.asiw img{
+    padding: 5px;
+    width: 300px;
+    height: 100px;
+   }
+
+.secw{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 20px;
+     
+     height: 630px;
+     width: 600px;
+    }
+
+.fo{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #811111;
+    padding: 10px;
+}

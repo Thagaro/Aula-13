@@ -1,0 +1,167 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    font-family: arial;
+    
+
+    font-size: 15pt;
+    color:#f7bc05;
+ }
+
+ h2{
+     font-family: arial;
+     text-shadow: 2px 2px 2px black;
+     padding: 10px;
+
+     font-size: 15pt;
+     color: #f7bc05;
+ }
+ h3{
+   font-family: arial;
+   text-shadow: 2px 2px 2px black;
+   padding: 10px;
+
+   font-size: 15pt;
+   color: #f7bc05;
+}
+
+ .menu{
+    border: 1px solid black;
+    align-items: center;
+    padding: 0px;
+
+    background-color: #811111;
+ }
+
+ .menu2{
+    border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #811111;
+    
+ }
+.logo{
+   display: flex;
+   align-items: center;
+}
+
+.logo h1{
+   margin-left:42%;
+
+}
+
+.logo img{
+    padding: 1px;
+   float: left;
+   height:60px;
+   width: 60px;
+ }
+ .logos{
+    height:20px;
+    width:20px;
+  }
+ 
+.nav1{
+     border: 1px solid black;
+     padding: 0px;
+     height: 30px;
+     align-items: center;
+     display: flex;
+     justify-content:space-between;
+  }
+ 
+.art1{
+    
+    
+     padding: 25px;
+     height: 620px;
+     width: 800px;
+ 
+  }
+ 
+.sec1{
+    border: 1px solid black;
+    padding: 5px;
+    
+  }
+ 
+.asi1{
+
+    border: 1px solid black;
+    padding: 1px;
+     
+     height: 670px;
+     width: 350px;
+ 
+ }
+ 
+.asi1 img{
+    padding: 25px;
+    width: 300px;
+    height: 110px;
+ }
+ 
+.fo1{
+     border: 1px solid black;
+     padding: 2px;
+ 
+    
+     background-color: #811111;
+   
+ }
+
+.vaca{
+    border: 1px solid black;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+ 
+    flex-direction: column;
+    background-color:#941617;
+ }
+ 
+.vaca img{
+    width: 400px;
+    height: 150px;
+ }
+ 
+.porco{
+    border: 1px solid black;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    background-color:#941617;
+ }
+ 
+.porco img{
+ 
+    width:400px;
+    height: 150px;
+ }
+ 
+.espe{
+    border: 1px solid black;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    
+    
+    flex-direction: column;
+    background-color:#941617;
+ }
+ 
+.espe img{
+ 
+    width: 400px;
+    height: 150px;
+ }
